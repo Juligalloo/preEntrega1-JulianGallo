@@ -1,0 +1,27 @@
+.headerNAV{
+   display: flex;
+   min-height: 70px;
+   background-color: coral;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px 40px;
+      
+}
+
+.divLOGO{
+    padding-left: 75PX;
+}
+
+.divNAV{
+    
+}
+
+.divMENU{
+    padding-right: 90px;
+}
+.imgLOGO {
+    width: 150px;
+
+   
+   
+}
